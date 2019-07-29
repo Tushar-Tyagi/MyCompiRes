@@ -1,2 +1,2 @@
 # MyCompiRes
-Compiling my competitive programming leanings over these years.  
+Compiling my competitive programming learnings over these years.  
